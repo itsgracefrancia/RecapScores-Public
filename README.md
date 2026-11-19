@@ -1,20 +1,13 @@
 # RecapScores
 
-Follow the performances. Explore the scores.
-
-RecapScores is an app in development for following drum corps and indoor marching arts scores and events.
+A volenteer project run by a single person, made with love for the performing arts.
 
 ## About this repository
 
-This is the public information repository for RecapScores. It is separate from the app's private source code and is intended to hold public-facing documentation, including the privacy policy and future support resources.
-
-## Project status
-
-RecapScores is currently in development. Public release information and links will be added here when available.
+This is the public information repository for RecapScores. It is separate from the app's private source code and is intended to hold public-facing documentation.
 
 ## Privacy policy
 
-The privacy policy is being prepared. A link will be added here once it has been reviewed and published.
 
 ## Questions and feedback
 
